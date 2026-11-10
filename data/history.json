@@ -1,0 +1,20 @@
+[
+  {
+    "Timestamp": "2026-11-11 02:19:15",
+    "Filename": "item-2 (3).jpg",
+    "Condition": "Dryness",
+    "Confidence": 84.17028103027724
+  },
+  {
+    "Timestamp": "2026-11-11 02:23:47",
+    "Filename": "Screenshot_11-11-2026_22256_www.bing.com.jpeg",
+    "Condition": "Eczema",
+    "Confidence": 90.34863275220904
+  },
+  {
+    "Timestamp": "2026-11-11 02:23:59",
+    "Filename": "Screenshot_11-11-2026_22256_www.bing.com.jpeg",
+    "Condition": "Acne",
+    "Confidence": 71.56400425178609
+  }
+]
